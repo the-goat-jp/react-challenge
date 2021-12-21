@@ -73,7 +73,7 @@ We will evaluate your skills based on criteria as below.
 - Add source code comments to be more readable
 - Good naming convention (filenames, functions and variables)
 - Design testable functions
-- Consider computational costs
+- implement custom hooks
 - High maintenance source code
 - Error handling
 
