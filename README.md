@@ -1,4 +1,4 @@
-# THE GOAT React.js Code Challenge
+# XYZ GOAT React.js Code Challenge
 
 **TODO List React** is a code challenge for frontend developer.
 
